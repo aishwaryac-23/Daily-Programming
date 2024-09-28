@@ -8,12 +8,16 @@ public class Main
 		String res=repeatString(s,n);
 	    System.out.println(res);
 	}
-	
 	public static String repeatString(String s,int n){
 	    StringBuilder sb=new StringBuilder();
+	    if(n<0){
+	        return "invalid";
+	    }
+	    else{
 	    for(int i=0;i<n;i++){
 	        sb.append(s);
 	    }
 	    return sb.toString();
+	    }
 	}
 }
