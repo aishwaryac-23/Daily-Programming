@@ -11,7 +11,6 @@ public class Main {
             char s = (char) ('a' + (ch - '1'));
             result.append(s);
         }
-        
         System.out.println(result.toString());
     }
 }
