@@ -3,7 +3,7 @@ package string;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class anagram {
+public class Anagram {
 
 	public static void main(String[] args) {
 		Scanner obj=new Scanner(System.in);
