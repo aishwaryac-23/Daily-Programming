@@ -30,3 +30,10 @@ class Accenture_Program1 {
             return "Disqualified "+sum;
     }
 }
+/*
+5
+3
+5 10 15 20 25
+10 20 30 40 50
+Qualified 60
+ */
