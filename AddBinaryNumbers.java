@@ -5,6 +5,7 @@ public class AddBinaryNumbers {
         Scanner sc = new Scanner(System.in);
         String bin1 = sc.next();
         String bin2 = sc.next();
+        
         sc.close();
 
         StringBuilder result = new StringBuilder();
