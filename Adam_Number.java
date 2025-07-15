@@ -20,6 +20,7 @@ public class Main {
             revNum = revNum * 10 + digit;
             num /= 10;
         }
+        
         return revNum;
     }
     public static long squareNumber(long num) {
