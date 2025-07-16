@@ -15,6 +15,7 @@ public class AutomorphicInRange {
                 System.out.print(i + " ");
             }
         }
+
     }
 
     static boolean isAutomorphic(int num) {
