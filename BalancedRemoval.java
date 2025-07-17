@@ -9,7 +9,6 @@ public class BalancedRemoval {
         for (int i = 0; i < n; i++) {
             weights[i] = sc.nextInt();
         }
-
         int[] prefixEven = new int[n];
         int[] prefixOdd = new int[n];
 
