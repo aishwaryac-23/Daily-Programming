@@ -5,6 +5,7 @@ public class BFSExample {
     private LinkedList<Integer>[] adjList; // Adjacency list
 
     // Constructor
+    
     public BFSExample(int v) {
         vertices = v;
         adjList = new LinkedList[v];
