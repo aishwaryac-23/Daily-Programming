@@ -15,6 +15,7 @@ public class Main
 	            sum+=i;
 	        }
 	    }
+		
 	    return sum;
 	}
 }
