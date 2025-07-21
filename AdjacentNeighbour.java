@@ -9,6 +9,7 @@ class Main{
         }
         System.out.println(Neighbour(arr,n));
     }
+    
     public static int Neighbour(int arr[],int n){
         Arrays.sort(arr);
         int sum=0,ab1,ab2;
