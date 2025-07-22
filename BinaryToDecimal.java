@@ -10,3 +10,5 @@ public class BinaryToDecimal {
         System.out.println("Decimal Equivalent: " + decimal);
     }
 }
+
+
