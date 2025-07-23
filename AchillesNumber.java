@@ -11,7 +11,6 @@ public class AchillesNumber {
         }
         scanner.close();
     }
-
     static boolean isAchillesNumber(int n) {
         if (!isPowerful(n) || isPerfectPower(n)) return false;
         return true;
