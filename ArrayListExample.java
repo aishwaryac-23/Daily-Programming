@@ -13,3 +13,4 @@ public class ArrayListExample {
         System.out.println("Size: " + list.size());
     }
 }
+
