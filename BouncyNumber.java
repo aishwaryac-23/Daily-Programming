@@ -38,6 +38,7 @@ public class BouncyNumber {
         }
     }
 }
+
 /*
 A Bouncy Number is a positive integer that is neither in increasing nor decreasing order.
 In other words, a number is bouncy if its digits do not consistently increase or decrease throughout.
