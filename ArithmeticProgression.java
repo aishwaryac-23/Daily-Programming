@@ -14,7 +14,7 @@ public class ArithmeticProgression {
             System.out.print(a + " ");
             a += d;
         }
-        
+    
         scanner.close();
     }
 }
