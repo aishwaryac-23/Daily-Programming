@@ -9,7 +9,6 @@ public class AdditiveNumber {
         }
         return false;
     }
-
     private static boolean isValid(String num, int len1, int len2) {
         if (num.charAt(0) == '0' && len1 > 1) return false;
         if (num.charAt(len1) == '0' && len2 > 1) return false;
