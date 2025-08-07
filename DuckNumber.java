@@ -7,7 +7,6 @@ public class DuckNumber {
         String number = scanner.nextLine();
         System.out.println(isDuckNumber(number) ? "Duck Number" : "Not a Duck Number");
     }
-
     public static boolean isDuckNumber(String number) {
         if (number.charAt(0) == '0') return false;
         for (int i = 1; i < number.length(); i++) {
