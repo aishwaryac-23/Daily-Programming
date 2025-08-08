@@ -14,7 +14,6 @@ public class ArrayListDeletion {
         numbers.add(30);
         numbers.add(40);
         numbers.add(50);
-
         System.out.println("Original List: " + numbers);
 
         // Remove by index
