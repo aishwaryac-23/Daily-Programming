@@ -8,6 +8,7 @@ public class AlphabetPattern {
             for (int j = 0; j <= i; j++) {
                 System.out.print((char) ('A' + j));
             }
+            
             System.out.println();
         }
     }
