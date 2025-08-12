@@ -11,6 +11,7 @@ class Main{
   Arrays.sort(arr);
   for(int n:arr){
     System.out.print(n);
+    
   }
 }
 }
